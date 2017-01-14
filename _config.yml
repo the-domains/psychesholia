@@ -1,4 +1,3 @@
-layout_spectrum: 0.9455282168818803
 typography_spectrum: 0.2918669023492032
 color:
   brandStrength: 0.729486978034498
@@ -14,6 +13,7 @@ color:
 github: true
 opengraph:
   appId: sheungggggg
+layout_spectrum: 0.9455282168818803
 author:
   name: Sheung
   email: psychesholia@gmail.com
