@@ -1,0 +1,32 @@
+typography_spectrum: 0.8654327720075403
+color:
+  brandStrength: 0.4048890087412357
+  lightness: 0.13913857522715659
+  saturation: 0.5283454046490612
+  rhythmicContrast: 0.26822667080660045
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+github: true
+opengraph:
+  appId: sheungggggg
+layout_spectrum: 0.9429646805695046
+author:
+  name: Sheung
+  email: psychesholia@gmail.com
+  url: 'http://facebook.com/psychesholia'
+logo: null
+name: psychesholia
+navigation:
+  - name: facebook
+    url: 'http://facebook.com/psychesholia'
+    type: external
+  - name: instagram
+    url: 'http://instagram.com/psychesholia_'
+    type: external
+title: psychesholia
+content: []
+description: the earth has music for those who listen
